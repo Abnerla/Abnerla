@@ -26,7 +26,7 @@
 <br/>  
 
 <!-- 贪吃蛇动图 -->
-<div align="center"><img src="https://raw.gitmirror.com/Abnerla/action/output/github-contribution-grid-snake.svg?new=20251011" /></div>
+<div align="center"><img src="https://raw.gitmirror.com/1321928757/action/output/github-contribution-grid-snake.svg?new=20251011" /></div>
 <br/>  
 
 <!-- 联系方式 -->
@@ -86,7 +86,7 @@
 <picture>
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" /> -->
-  <img src="https://github.com/Abnerla/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img src="https://github.com/1321928757/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
 </picture>
 
 <!-- for beauty 留个空行好看点 -->
