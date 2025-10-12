@@ -16,7 +16,7 @@
 </div>  
 
 <!-- 个人介绍 -->
-### <div align="center">✨我是李子汶，目标是成为一名优秀的摸鱼选手✨</div>  
+### <div align="center">✨我是Abnerla，目标是成为一名优秀的摸鱼选手✨</div>  
 <br/>  
 <div align="center">🔭 酷爱编程，喜欢开发一些有趣的项目，兴趣驱动式学习🔭 </div>  
 <br/>  
@@ -147,7 +147,7 @@
     <th>Forks</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Abnerla/HarmonyOS-Bookkeeping" target="_blank">🔥粉笔标注 - Android 全局屏幕标注工具</a></td>
+    <td><a href="https://github.com/Abnerla/fenbi_biaozhu" target="_blank">🔥粉笔标注 - Android 全局屏幕标注工具</a></td>
     <td>一款支持跨应用全局屏幕标注的安卓APP,用户在任意应用界面均可触发标注,且标注过程不影响底层应用运行。</td>
     <td>
       <img width="150" src="https://img.shields.io/github/stars/Abnerla/go-web-starter?style=social" alt="stars"/>
@@ -157,7 +157,7 @@
     </td>
 
   <tr>
-    <td><a href="https://github.com/Abnerla/fenbi_biaozhu" target="_blank">🔥HarmonyOS-簿记</a></td>
+    <td><a href="https://github.com/Abnerla/HarmonyOS-Bookkeeping" target="_blank">🔥HarmonyOS-簿记</a></td>
     <td>学校作业，仿照的一款记账APP</td>
     <td >
       <img width="150"  src="https://img.shields.io/github/stars/Abnerla/big-market?style=social" alt="stars"/>
