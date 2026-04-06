@@ -167,8 +167,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td><a href="https://github.com/Abnerla/AI_paper" target="_blank">🔥纸研社</a></td>
+    <td>一站式AI论文辅助写作工作台</td>
+    <td >
+      <img width="150"  src="https://img.shields.io/github/stars/Abnerla/big-market?style=social" alt="stars"/>
+    </td>
+    <td >
+      <img width="150"  src="https://img.shields.io/github/forks/Abnerla/big-market?style=social" alt="stars"/>
+    </td>
   </tr>
-
+  
+  </tr>
+https://github.com/Abnerla/AI_paper
   <!-- 重复以上行来添加更多项目 -->
 </table>
 
